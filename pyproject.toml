@@ -1,0 +1,19 @@
+[project]
+name = "tds-project2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.13.4",
+    "duckdb>=1.3.2",
+    "fastapi>=0.115.12",
+    "lxml>=6.0.0",
+    "matplotlib>=3.10.5",
+    "numpy>=2.2.6",
+    "pandas>=2.2.3",
+    "python-dotenv>=1.1.1",
+    "python-multipart>=0.0.20",
+    "requests>=2.32.4",
+    "uvicorn>=0.34.3",
+]
